@@ -1,17 +1,21 @@
 .App {
-  text-align: center;
+  font-family: cursive;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 15vmin;
+  width: auto;
+  border-radius: 50%;
   pointer-events: none;
+  float: left;
+  margin-left: 5%;
 }
-
+/* 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +39,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#heading{
+  width: 100%;
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+}
+.contacts{
+  color: white;
 }
