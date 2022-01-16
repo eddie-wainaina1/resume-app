@@ -1,20 +1,37 @@
 .App {
-  text-align: center;
+  background-color: #282c34;
+  color: white;
 }
-
+.contacts{
+  color: whitesmoke;
+}
+.contacts:hover{
+  color: blue;
+}
+a{
+  color:azure;
+}
+a:hover {
+  color:darkslategray;
+}
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+  border-radius: 50%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
+#heading{
+  display: flex;
+  justify-content: space-around;
+  flex-direction:row;
+  float: left;
+}
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,11 +45,7 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.education{
+  text-align: center;
+  font-size: large;
 }

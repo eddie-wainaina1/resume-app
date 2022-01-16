@@ -59,5 +59,6 @@ const certs = {
 
     }
 }
+
 const data = { foreword, finalWord, schools, certs }
 export default data
