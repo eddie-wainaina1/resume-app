@@ -1,0 +1,18 @@
+{
+    "University": {
+        "name":"Kenyatta University",
+        "course":"Mechanical Engineering",
+        "start_year":2018,
+        "end_year":2025
+    },
+    "highschool":{
+        "name":"Maseno School",
+        "start_year":2014,
+        "end_year":2017
+    },
+    "primary":{
+        "name":"Gilgil DEB Primary School",
+        "start_year":2006,
+        "end_year":2014
+    }
+}

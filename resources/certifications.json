@@ -1,0 +1,27 @@
+{
+    "freecodecamp.org":{
+        "Responsive Web Design": "https://www.freecodecamp.org/certification/eddie-w-njoroge/responsive-web-design",
+        "Javascript Algorithms And Data Structures": "https://www.freecodecamp.org/certification/eddie-w-njoroge/javascript-algorithms-and-data-structures",
+        "Front End Development Libraries": "",
+        "Data Visualization": "",
+        "Backend Development And APIs": "",
+        "Quality Assurance": "",
+        "Scientific Computing With Python": "",
+        "Data Analysis With Python": "",
+        "Information Security": ""
+    },
+    "udemy.com":{
+        "The Compelete Ethical Hacking Course!":"",
+        "Machine Learning & Deep Learning in Python & R": "",
+        "Advanced Neural Networks in R - A Practical Approach": "",
+        "Artificial Intelligence in Web Design": "",
+        "Ultimate Ethical Hacking and Penetration Testing": ""
+    },
+    "aws certifications":{
+
+    },
+
+    "google certificates":{
+
+    }
+}
